@@ -12,7 +12,7 @@
   <img align="center" alt="Ismael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ismael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ismael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Ismael-pic" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/WNNi3fr6OcBNKxItll/giphy.webp">
+  <img align="right" alt="Ismael-pic" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.webp">
 </div>
   
   ##
