@@ -1,4 +1,5 @@
-## Oiii eu sou o Ismael De Souza Dias, Desenvolvedor Júnior! ✌️👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2471A3&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+ISMAEL+DE+SOUZA+DIAS;AMO+TECNOLOGIA;SEJA+BEM-VINDO!+:%29)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/IsmaelDeSouzaDias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsmaelDeSouzaDias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -21,8 +22,6 @@
   <a href="https://www.instagram.com/ismaeldesouzadias" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ismaelnamira.i.s.d@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ismaeldesouzadias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5547984323936&text=sua%20mensagem" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 
- ![Snake animation](https://github.com/IsmaelDeSouzaDias/IsmaelDeSouzaDias/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://api.whatsapp.com/send?phone=5547984323936&text=sua%20mensagem" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"       
+     target="_blank"></a>
 </div>
